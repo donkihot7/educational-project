@@ -17,6 +17,6 @@
 
   
     <script src="launcher.js"></script>
-    
+    create-react-app weather
 </body>
 </html>
