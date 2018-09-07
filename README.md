@@ -8,6 +8,8 @@
  </head>
  <body>
   <div id="like_button_container"></div>
+  <p>dfd</p>
+  <p>ede</p>
     <!-- ... other HTML ... -->
 
   <!-- Load React. -->
@@ -18,4 +20,5 @@
   <!-- Load our React component. -->
   <script src="launcher.js"></script>
  </body>
+</body>
 </html>
