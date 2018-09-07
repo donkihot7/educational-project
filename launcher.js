@@ -20,7 +20,10 @@ class LikeButton extends React.Component {
     );
   }
 }
-
+ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);
 // ... the starter code you pasted ...
 
 const domContainer = document.querySelector('#launcher.js');

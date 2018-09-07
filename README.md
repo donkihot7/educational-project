@@ -17,9 +17,6 @@
 
   
     <script src="launcher.js"></script>
-    ReactDOM.render(
-  <h1>Hello, world!</h1>,
-  document.getElementById('root')
-);
+    
 </body>
 </html>
