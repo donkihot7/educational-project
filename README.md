@@ -9,14 +9,13 @@
  <body>
   <div id="like_button_container"></div>
   <p>dfd</p>
-  <p>ede</p>
-      <!-- ... other HTML ... -->
-
-  <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
-  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
-
-  
-    <script src="launcher.js"></script>
-    create-react-app weather
+  <p>ede</p>    
+  <!-- ... other HTML ... -->
+  <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+ <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+ <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+ <!-- Load our React component. -->
+  <script src="launcher.js"></script>
 </body>
 </html>
