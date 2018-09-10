@@ -9,7 +9,11 @@
  <body>
   <div id="like_button_container"></div>
   <p>dfd</p>
-  <p>ede</p>    
+  <p>ede</p>
+  ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);  
   <!-- ... other HTML ... -->
   <!-- Load React. -->
   <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
